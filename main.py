@@ -1,3 +1,4 @@
+#Encoding UTF-8
 import sqlite3
 
 with sqlite3.connect('db/test.db') as conn:
